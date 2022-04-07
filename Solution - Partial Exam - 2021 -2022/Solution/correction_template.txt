@@ -1,0 +1,71 @@
+--------------------------------------------------------------------------------
+Plantilla para corrección
+--------------------------------------------------------------------------------
+
+
+Ejercicio 1 [/1.00]:
+
+1. Solución b) [/0.10]
+2. Solución b) [/0.10]
+3. Solución b) [/0.10]
+4. Solución b) [/0.10]
+5. Solución b) [/0.10]
+6. Solución a) [/0.10]
+7. Solución a) [/0.10]
+8. Solución b) [/0.10]
+9. Solución b) [/0.10]
+10. Solución a) [/0.10]
+
+
+Ejercicio 2 [/1.00]:
+
+1. Solución [/0.50]:
+2. Solución [/0.50]:
+
+
+Ejercicio 3 [/1.00]:
+
+1. Solución [/0.50]:
+   * Falta la comprobación de parámetros
+   * Identación de la función función_2.
+   * Línea 30. La variable Z no existe.
+
+2. Solución [/0.50]:
+   * Valor variable a en la línea 52 del código [/0.10]: 1
+   * Valor variable a en la línea 56 del código [/0.10]: 1
+   * Valor variable b en la línea 7 del código [/0.10]: 11
+   * Valor variable c en la línea 58 del código [/0.10]: 9
+   * Valor variable z en la línea 32 del código [/0.10]: N/A
+
+
+Ejercicio 4 [/3.00]:
+
+a) Clase WeaponType: [/0.50 Extra]
+
+b) Clase Pokemon [/2.50]
+
+   * Atributos definicion y visibilidad [/0.50]
+   * Métodos constructor y destructor [/0.25]
+   * Método __str__ [/0.25]
+   * Métodos Setters y Getters [/0.25]
+   * Método is_alive [/0.25]
+   * Método fight_attack [/0.50]
+   * Método fight_defense [/0.50]
+   * Test ejecutan correctamente [/0.25 Extra]
+
+
+Ejercicio 5 [/2.00]:
+
+   * Herencia PokemonEarth [/0.50]
+   * Herencia PokemonWater [/0.50]
+   * Herencia PokemonAir [/0.50]
+   * Herencia PokemonElectricity [/0.50]
+
+
+Ejercicio 6 [/2.00]:
+
+   * Función get_data_from_user [/0.50]
+   * Función get_Pokemon_in_a_list_of_pokemons [/0.25]
+   * Función coach_is_undefeated [/0.25]
+   * Función main [/1.00]
+
